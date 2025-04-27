@@ -1,3 +1,6 @@
 [submodule "FrontEnd-Angular"]
 	path = FrontEnd-Angular
 	url = https://github.com/Aayush1818/tcs_insurance.git
+[submodule "Backend-Springboot"]
+	path = Backend-Springboot
+	url = https://github.com/iamssr02/Insurance-Management-System
